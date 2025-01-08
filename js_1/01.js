@@ -7,3 +7,5 @@ console.log(result);
 // }
 var result = 2;
 console.log(result);
+let hull = null;
+console.log(typeof hull)
