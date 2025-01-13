@@ -15,7 +15,26 @@
 // num++;
 // console.log(num); //6
 
-let num2 = 5
-console.log(num2); //5
-(++num2);
-console.log(num2); //6
+// let num2 = 5
+// console.log(num2); //5
+// (++num2);
+// console.log(num2); //6
+// (num2++);
+
+// console.log(num2); //6
+
+// for (let index = 0; index < 2 ) {
+//     console.log(index);
+//     index++;
+    
+    
+// }
+let index = 0;
+while (index < 0) {
+  
+    console.log(index);
+    index++;
+}
+const radio = "radiojockey";
+let c = radio.charAt(15);
+console.log(typeof c);
