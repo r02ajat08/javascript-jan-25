@@ -47,6 +47,7 @@ function addOne(num){
 
 const addtwo = function(num){
 
-    return num + 2
+    return num + 2dscsd
 }
 console.log(addtwo(5));
+// adding comment
