@@ -10,6 +10,7 @@ function sayMyName(){
 }
 // sayMyName();
 
+
 // "+"= concatenate "-" = sorting  
 function subThreeNumber(num1,num2,num3){
     let result = (num1 + num2) + num3;
